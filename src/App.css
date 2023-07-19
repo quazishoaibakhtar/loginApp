@@ -1,0 +1,47 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  padding-top: 150px;
+  text-align: center;
+  background-color: aquamarine;
+}
+
+.form {
+
+width: 30vw;
+margin: auto;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+margin-top: 50px;
+
+
+}
+
+
+
+.label {
+font-style: normal;
+margin-left: -240px;
+
+
+}
+.labelp {
+  font-style: normal;
+  margin-left: -190px;
+  
+  
+  }
+
+.input {
+  width: 20vw;
+  height: 30px;
+  padding: 20px;
+  
+}
+
+.btnlogin {
+  width: 80px;
+  height: 30px;
+}

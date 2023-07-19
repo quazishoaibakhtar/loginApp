@@ -1,0 +1,121 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+.hope {
+    width: 44.2vw;
+    background-color: red;
+    padding: 15px;
+    display: flex;
+    border: 2px solid black;
+    box-shadow: 0 0 0 1px black;
+   justify-content: space-between;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+
+
+.text {
+   
+    margin-left: 80px;
+    font-weight: 500;
+    color: white;
+}
+
+.btnchart {
+    padding: 5px;
+    width: 110px;
+    margin-left: 150px;
+    border-radius: 10%;
+    background-color: black;
+    color: white;
+    font-size: large;
+    border: 1px solid black;
+    box-shadow: 0 0 0 1px black;
+    
+}
+
+html {
+    font-size: 180.2%;
+    font-style: italic;
+}
+
+
+table {
+    margin:  auto;
+    border: 2px solid #e65517;
+    border-collapse: collapse;
+    box-shadow: 0 0 0 1px black;
+    overflow: hidden;
+}
+
+  td {
+font-size: 1.4rem;
+line-height: 1.6;
+}
+
+thead {
+    
+    background-color: white;
+    color: black;
+   
+}
+
+
+
+
+th,
+td {
+
+    border: 2px solid  rgb(255, 102, 0);
+   
+    padding: 20px;
+    line-height: 1;
+   
+}
+
+.tdh {
+
+    color: blue;
+   
+}
+
+.tho1 {
+   
+}
+td {
+    font-size: 1.4rem;
+    background-color:  yellow;
+} 
+ 
+
+
+
+.tablechart {
+    border: 1px solid blue;
+}
+
+
+
+.br {
+    margin-left: 20px;
+}
+
+
+
+.throw {
+    border: 1px solid blue; 
+    background-color: rgb(207, 223, 236);
+}
+
+
+.tdcol {
+    border: 1px solid blue;
+    background-color: rgb(247, 213, 167);
+}
+
+
